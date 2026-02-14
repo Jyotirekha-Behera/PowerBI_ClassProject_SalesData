@@ -4,17 +4,17 @@ This project showcases an interactive Sales & Profit dashboard built using Power
 
 🔧 What I Did
 
-Cleaned and transformed data using Power Query
+- Cleaned and transformed data using Power Query
 
-Integrated data from SQL Server and CSV files
+- Integrated data from SQL Server and CSV files
 
-Built relationships and hierarchies for Products, Regions, and Resellers
+- Built relationships and hierarchies for Products, Regions, and Resellers
 
-Created DAX measures for KPIs like Sales, Cost, Profit, and Profit Margin
+- Created DAX measures for KPIs like Sales, Cost, Profit, and Profit Margin
 
-Designed a custom fiscal date table (April–March)
+- Designed a custom fiscal date table (April–March)
 
-Built interactive visuals using slicers, maps, combo charts, donut charts, and tooltips
+- Built interactive visuals using slicers, maps, combo charts, donut charts, and tooltips
 
 📈 Outcome
 
